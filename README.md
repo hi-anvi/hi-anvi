@@ -9,8 +9,5 @@ I am a student of class 9<sup>th</sup>.
 
 ### My Gradebooks:-
 
-CS50X 
-[View PDF Document](cs50x_grade.pdf)
-
-CS50AI
-[View PDF Document](cs50ai_grade.pdf)
+- [CS50x](cs50x_grade.pdf)
+- [CS50AI](cs50ai_grade.pdf)
